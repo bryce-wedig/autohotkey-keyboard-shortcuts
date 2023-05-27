@@ -5,5 +5,5 @@
 Current configuration:
 * F9 - In Excel, format date as yyyy-mm-dd
 * F10 - In Excel, fit all column widths to content
-* F11 - 
+* F11 - In Excel, zoom to selection
 * F12 - In Word, zoom to page width
